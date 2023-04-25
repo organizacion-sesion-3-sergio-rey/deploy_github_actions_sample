@@ -44,6 +44,6 @@ jobs:
         # Nombre del entorno creado en Beanstalk
         environment_name: AplicacionSergioRey-env
         # Nombre de la versión a crear en Beanstalk
-        version_label: v1.0
+        version_label: v1.01
         # Archivo con el código de la aplicación (generado en el paso anterior)
         deployment_package: deploy.zip
